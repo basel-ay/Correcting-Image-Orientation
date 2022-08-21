@@ -9,7 +9,7 @@
   ![](http://web.mit.edu/torralba/www/allIndoors.jpg)
   
   # Problem Statement
-<p align ="justify">It is easy for us to determine whether or not a natural picture is being rotated. But it may be hard for computers to replicate human output. So, that's our objective of replicating human performance by using Convolutional Neural Network. In this project we are going to pridict rotation angle of a  image [0, 90, 180, 270].
+<p align ="justify">It is easy for us to determine whether or not a natural picture is being rotated. But it may be hard for computers to replicate human output. So, that's our objective of replicating human performance by using Convolutional Neural Network. In this project we are going to predict rotation angle of a image [0, 90, 180, 270].
 
 
 <p align ="justify">The images in the dataset are well organized(rotated). But for our research purpose, we are going to rotate the images at different angles (like 90 degrees). And so that, we can reproduce human performance via the computer.
